@@ -1,2 +1,70 @@
+# 加密货币交易所
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,upbit.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
 
-DOMAIN-SUFFIX,tronlink.org
+# 主流公链及项目
+DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,polkadot.network
+DOMAIN-SUFFIX,cardano.org
+DOMAIN-SUFFIX,avax.network
+DOMAIN-SUFFIX,chain.link
+DOMAIN-SUFFIX,polygon.technology
+DOMAIN-SUFFIX,litecoin.org
+DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,tron.network
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,tether.to
+DOMAIN-SUFFIX,circle.com
+DOMAIN-SUFFIX,ripple.com
+DOMAIN-SUFFIX,shibatoken.com
+
+# 多链钱包
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,safe.global
+DOMAIN-SUFFIX,bitpie.com
+
+# Solana 生态
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,solflare.com
+
+# 比特币/多链钱包
+DOMAIN-SUFFIX,blockchain.com
+DOMAIN-SUFFIX,exodus.com
+DOMAIN-SUFFIX,coinomi.com
+DOMAIN-SUFFIX,ledger.com
+DOMAIN-SUFFIX,trezor.io
+
+# TON 生态
+DOMAIN-SUFFIX,tonkeeper.com
+DOMAIN-SUFFIX,tonhub.com
+
+# 手机上常用的钱包域名集
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,bitgetwallet.com
+DOMAIN-SUFFIX,bitkeep.com
+DOMAIN-SUFFIX,essentials.cash
+DOMAIN-SUFFIX,unisat.io
+DOMAIN-SUFFIX,cakewallet.com
+DOMAIN-SUFFIX,pelaguswallet.io
+DOMAIN-SUFFIX,ergoplatform.org
+DOMAIN-SUFFIX,ergowallet.io
+DOMAIN-SUFFIX,thorwallet.org
+DOMAIN-SUFFIX,krakwallet.com
+DOMAIN-SUFFIX,kratoswallet.io
