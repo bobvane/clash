@@ -3,6 +3,8 @@
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,yfanqie.com
 DOMAIN-SUFFIX,umeng.com
+IP-CIDR,116.132.255.102/32,no-resolve
+IP-CIDR,103.45.73.61/32,no-resolve
 
 # MyList
 # 域名后缀匹配
